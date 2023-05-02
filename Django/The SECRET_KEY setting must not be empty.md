@@ -3,11 +3,13 @@
 
 ### 문제 상황
 - `python manage.py migrate`을 해서 DB 만들어주려 하는데, SECRET_KEY가 없대요..
+
   ![image](https://user-images.githubusercontent.com/37495515/235699926-31681aac-8381-4603-b446-0466fe25560c.png)
 
 
 ### 해결 방법
 - `config/settings.py` 확인해보니
+
   ![image](https://user-images.githubusercontent.com/37495515/235700360-60314d4e-9c1a-49c1-86e7-884301178519.png)
   ```
     from decouple import config
