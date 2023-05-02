@@ -22,6 +22,7 @@
 - 알고보니 `DEBUG = True`이고, `ALLOWED_HOSTS = []` 이면 자동으로 들어가는 거였다..
 - 그래서 바꿀 필요가 없긴 하지만 그냥 바꿔줬다.
 - 해 to the 결 2
+
   ![image](https://user-images.githubusercontent.com/37495515/235720528-c918dbd7-1a73-41f1-b3b3-d5ec9467aef6.png)
 
 
