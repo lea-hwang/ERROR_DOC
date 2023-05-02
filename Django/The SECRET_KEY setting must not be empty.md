@@ -27,10 +27,13 @@
 - 구글링 최공..
 - [django sqlite3 사용](https://e-you.tistory.com/354?category=1028321)
 - SQLite를 VSC 에서 보기 위해서 extension을 깔아주자!.
+  
   ![image](https://user-images.githubusercontent.com/37495515/235703620-d440d2a7-a49d-401c-aef6-5ef757d434b1.png)
   - Open Database를 누르면
+  
   ![image](https://user-images.githubusercontent.com/37495515/235704125-99ffa64c-a0f1-4925-876a-836cc3757839.png)
   - SQLITE EXPLORER이 생긴다.
+  
   ![image](https://user-images.githubusercontent.com/37495515/235704338-a5718a45-73b2-4e15-87be-eea39e81b1e2.png)
 
 
