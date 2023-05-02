@@ -1,7 +1,7 @@
-### keyword
+### 키워드
 `python`, `downgrade`, `requirements.txt`, 
 
-### 상황 및 해결
+### 문제 상황
 - 가상환경을 만든 뒤, `pip install -r requirements.txt`을 실행했는데 다음과 같은 에러를 만남.
 ![image](https://user-images.githubusercontent.com/37495515/235696767-dc780145-90fc-46cd-9715-b10d1dcf59d5.png)
 
