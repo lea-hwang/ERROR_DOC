@@ -15,7 +15,7 @@
 - `STATIC_URL`, `STATIC_ROOT`도 비슷한 의미이나, `static` 파일에 대한 경로를 의미한다. 
   - images, JavaScript, or CSS 같은 파일
   - [참고](https://docs.djangoproject.com/en/4.2/howto/static-files/)
-- `settings.py`을 확인했는데, 이전에 AWS S3 사용하면서 URL들을 변경시킨게 보였다. 그래서 그 부분 주석처리..하고 원래 있던 URL들을 썼더니
+- `settings.py`을 확인했는데, 이전에 AWS S3 사용하면서 URL들을 변경시킨게 보였다(`MEDIA_URL`이랑 `STATIC_URL`이 같게 설정되어 있었음). 그래서 그 부분 주석처리..하고 원래 있던 URL들을 썼더니
 
   ![image](https://user-images.githubusercontent.com/37495515/235710738-01d07292-fb72-4047-ae34-436ddcbaf83b.png)
 - 해결
