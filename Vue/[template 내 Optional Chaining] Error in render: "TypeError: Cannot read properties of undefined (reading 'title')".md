@@ -1,11 +1,10 @@
 ### 키워드
-`?.`, `optional chaining`, `` 
+`?.`, `optional chaining`, `syntax error`, `vue-template-babel-compilier`
 
 ### 문제 상황
-- `shot.movie.title`를 불러와야 하는데, shot이 빈 객체여서 불러오지 못하는 상황
+- `shot.movie.title`를 불러와야 하는데, shot이 빈 객체`{}`여서 불러오지 못하는 상황
    ![image](https://user-images.githubusercontent.com/37495515/235759225-c76dd907-e4c9-4a2e-90dc-c26a69b206ff.png)
-
-    ![image](https://user-images.githubusercontent.com/37495515/235734221-5af0dc1f-3051-43b3-b7d0-97b4e0a4f37c.png)
+   ![image](https://user-images.githubusercontent.com/37495515/235734221-5af0dc1f-3051-43b3-b7d0-97b4e0a4f37c.png)
   
   
 ### 원인 분석
