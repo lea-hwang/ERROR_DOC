@@ -1,5 +1,5 @@
 ### 키워드
-`SECRET_KEY` 
+`SECRET_KEY`, `decouple`, `SQLite`
 
 ### 문제 상황
 - `python manage.py migrate`을 해서 DB 만들어주려 하는데, SECRET_KEY가 없대요..
