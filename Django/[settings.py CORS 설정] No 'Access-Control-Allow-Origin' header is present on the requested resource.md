@@ -1,5 +1,5 @@
 ### 키워드
-`CORS`, `decouple`
+`CORS`, `decouple`, `.env`
 
 ### 문제 상황
 - 크크, 너 왜 안나오나 했다 CORS ㅎ
@@ -18,7 +18,7 @@ cess to XMLHttpRequest at 'http://localhost:8000/api/v1/movies/search/0/' from o
   ![image](https://user-images.githubusercontent.com/37495515/235722228-d5a76939-fa09-4027-a9dd-c4a619b78285.png)
   - 요런 느낌으로 사용한다고 하니, `.env`파일을 고쳐보는 걸루! 삽질 한시간 한 결과.. 해결..하
   ![image](https://user-images.githubusercontent.com/37495515/235730245-62f3c6c4-15b2-4681-8f0d-d60d2c78fef6.png)
-    - ❗❗❗❗ `=` 앞뒤로 띄어쓰기 금지.. 안먹힌다...ㅎㅎ^^
+    - ❗❗❗❗ `.env` 파일 작성할 때 `=` 앞뒤로 띄어쓰기 금지.. 안먹힌다...ㅎㅎ^^
 - 해 to the 결
   ![image](https://user-images.githubusercontent.com/37495515/235730623-9925fe31-3acd-4277-97b1-3b0c43aa2ce6.png)
 
