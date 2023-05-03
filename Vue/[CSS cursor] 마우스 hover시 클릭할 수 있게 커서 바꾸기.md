@@ -10,6 +10,10 @@
   ```
     cursor: pointer;
   ```
+  - 해결
+  
+  ![image](https://user-images.githubusercontent.com/37495515/235845080-6027a68c-5a64-4ec4-bce6-9325192410ae.png)
+
 
 ### 느낀점 및 참고
 - [참고](https://ming-jee.tistory.com/65)
